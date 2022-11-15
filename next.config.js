@@ -5,6 +5,9 @@ const nextConfig = {
     return {
       '/': { page: "/" }
     }
+  }, 
+  images: {
+    unoptimized: true
   }
 }
 
